@@ -1,0 +1,7 @@
+FoodPrice Apple 1.0
+FoodPrice Banana 0.5
+FoodQuantity Apple 10
+FoodPrice Orange 0.75
+FoodQuantity Pear 8
+FoodPrice Grape 2.5
+FoodQuantity Grape 30

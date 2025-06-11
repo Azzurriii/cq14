@@ -1,0 +1,8 @@
+T_Alpha	item_A
+T_Beta	item_B
+T_Alpha	item_A
+T_Gamma	item_C
+T_Alpha	item_A
+T_Alpha	item_A
+T_Beta	item_B
+T_Delta	item_D_special name

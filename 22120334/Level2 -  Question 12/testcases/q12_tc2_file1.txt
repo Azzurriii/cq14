@@ -1,0 +1,5 @@
+FoodPrice "Red Apple" "Granny Smith"
+FoodPrice Banana "Cavendish"
+FoodQuantity "Red Apple" "10 units"
+FoodPrice "Red Apple" "Fuji"
+FoodQuantity "Green Grapes" "5 bunches"

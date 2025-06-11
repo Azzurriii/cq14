@@ -1,0 +1,10 @@
+TXN_001	fresh orange juice
+TXN_002	whole wheat bread
+TXN_001	fresh orange juice
+TXN_003	organic eggs large
+TXN_002	low-fat milk
+TXN_001	almond milk unsweetened
+TXN_004	sparkling water
+TXN_003	organic eggs large
+TXN_002	whole wheat bread
+TXN_001	fresh orange juice

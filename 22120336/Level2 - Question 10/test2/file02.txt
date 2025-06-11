@@ -1,0 +1,6 @@
+FoodQuantity Pork 20
+FoodQuantity Fish 35
+FoodPrice Lamb 22
+FoodQuantity Lamb 40
+FoodQuantity Turkey 15
+FoodPrice Salmon 28

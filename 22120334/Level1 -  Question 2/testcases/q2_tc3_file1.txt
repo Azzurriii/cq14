@@ -1,0 +1,26 @@
+ORD_LG_A01	extra long item name for testing cost calculation
+ORD_LG_A02	another item with several words here*
+ORD_LG_A01	short item
+ORD_LG_A03	item with discount applied*
+ORD_LG_A02	extra long item name for testing cost calculation
+ORD_LG_A01	very very very long product description
+ORD_LG_A04	simple product*
+ORD_LG_A03	item with discount applied*
+ORD_LG_A02	short item
+ORD_LG_A01	another item with several words here
+ORD_LG_A05	product without any discount
+ORD_LG_A06	special offer item today only*
+ORD_LG_A07	this is a regular priced item
+ORD_LG_A08	buy one get one free item*
+ORD_LG_A09	limited stock product name
+ORD_LG_A10	premium quality goods here*
+ORD_LG_A01	item with discount applied
+ORD_LG_A02	very very very long product description*
+ORD_LG_A03	simple product
+ORD_LG_A04	product without any discount
+ORD_LG_A05	special offer item today only
+ORD_LG_A06	this is a regular priced item*
+ORD_LG_A07	buy one get one free item
+ORD_LG_A08	limited stock product name*
+ORD_LG_A09	premium quality goods here
+ORD_LG_A10	extra long item name for testing cost calculation*

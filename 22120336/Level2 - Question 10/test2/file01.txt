@@ -1,0 +1,5 @@
+FoodPrice Chicken 12
+FoodPrice Beef 18
+FoodQuantity Chicken 25
+FoodPrice Pork 15
+FoodQuantity Beef 30

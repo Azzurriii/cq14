@@ -1,0 +1,5 @@
+FoodQuantity Lemon 10
+FoodPrice Papaya 5
+FoodQuantity Papaya 8
+FoodPrice Pear 6
+FoodQuantity Pear 12

@@ -1,0 +1,5 @@
+point6	180
+point7	120
+point8	220
+point9	70
+point10	140

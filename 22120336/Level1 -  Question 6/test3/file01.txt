@@ -1,0 +1,5 @@
+point1	100
+point2	150
+point3	80
+point4	200
+point5	50

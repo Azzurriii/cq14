@@ -1,0 +1,5 @@
+FoodPrice Apple 5
+FoodPrice Orange 3
+FoodQuantity Apple 10
+FoodPrice Banana 2
+FoodQuantity Orange 15

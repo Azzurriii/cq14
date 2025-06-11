@@ -1,0 +1,5 @@
+FoodPrice Laptop 800
+FoodPrice Phone 400
+FoodQuantity Laptop 5
+FoodPrice Tablet 300
+FoodQuantity Phone 12

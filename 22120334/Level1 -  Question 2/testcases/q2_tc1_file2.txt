@@ -1,0 +1,6 @@
+ORD_101	gourmet coffee beans
+ORD_103	quinoa grain
+ORD_102	artisanal bread
+ORD_104	mineral water*
+ORD_103	organic chicken breast*
+ORD_101	sparkling grape juice

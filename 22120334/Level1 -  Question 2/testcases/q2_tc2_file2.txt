@@ -1,0 +1,5 @@
+SALE_B	anotherverylongitembutwithdiscount*
+SALE_C	short*
+SALE_A	F*
+SALE_D	justoneitem
+SALE_B	small

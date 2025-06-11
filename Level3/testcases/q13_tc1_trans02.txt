@@ -1,0 +1,6 @@
+t7	apple banana
+t8	orange grape milk
+t9	apple grape
+t10	banana orange
+t11	milk bread apple
+t12	apple orange

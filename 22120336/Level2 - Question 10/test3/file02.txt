@@ -1,0 +1,6 @@
+FoodQuantity Tablet 8
+FoodQuantity Camera 3
+FoodPrice Watch 200
+FoodQuantity Watch 15
+FoodQuantity Headphones 25
+FoodPrice Monitor 350

@@ -1,0 +1,8 @@
+TXN_005	green tea bags
+TXN_003	avocado ripe
+TXN_002	whole wheat bread
+TXN_005	green tea bags
+TXN_001	almond milk unsweetened
+TXN_004	sparkling water
+TXN_003	organic eggs large
+TXN_005	honey raw

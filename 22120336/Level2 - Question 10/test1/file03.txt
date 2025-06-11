@@ -1,0 +1,5 @@
+FoodPrice Mango 6
+FoodPrice Kiwi 4
+FoodQuantity Durian 7
+FoodPrice Durian 8
+FoodPrice Lemon 3

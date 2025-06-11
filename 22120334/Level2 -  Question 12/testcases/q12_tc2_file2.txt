@@ -1,0 +1,4 @@
+FoodQuantity Banana "15 units"
+FoodPrice "Sweet Potato" "Orange Variety"
+FoodQuantity "Red Apple" "12 units"
+FoodPrice "White Onion" "Sweet Type"

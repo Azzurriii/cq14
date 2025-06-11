@@ -1,0 +1,7 @@
+ORD_101	blue cheese*
+ORD_102	artisanal bread
+ORD_101	sparkling grape juice
+ORD_103	organic chicken breast*
+ORD_102	salted butter
+ORD_101	blue cheese*
+ORD_104	mineral water

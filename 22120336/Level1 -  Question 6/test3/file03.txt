@@ -1,0 +1,5 @@
+point11	160
+point12	90
+point13	210
+point14	110
+point15	130

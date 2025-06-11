@@ -1,0 +1,30 @@
+TXN_LG_001	premium coffee beans dark roast
+TXN_LG_002	fresh sourdough bread loaf
+TXN_LG_001	organic spinach fresh
+TXN_LG_003	artisanal cheddar cheese block
+TXN_LG_002	imported olive oil extra virgin
+TXN_LG_001	premium coffee beans dark roast
+TXN_LG_004	natural spring water bottled
+TXN_LG_003	whole grain pasta spaghetti
+TXN_LG_002	fresh sourdough bread loaf
+TXN_LG_001	organic spinach fresh
+TXN_LG_005	wild caught salmon fillet
+TXN_LG_006	free range chicken eggs dozen
+TXN_LG_001	premium coffee beans dark roast
+TXN_LG_002	imported olive oil extra virgin
+TXN_LG_003	artisanal cheddar cheese block
+TXN_LG_004	natural spring water bottled
+TXN_LG_005	wild caught salmon fillet
+TXN_LG_006	free range chicken eggs dozen
+TXN_LG_007	greek yogurt plain nonfat
+TXN_LG_008	mixed berry granola cereal
+TXN_LG_001	organic blueberries pint
+TXN_LG_002	fresh sourdough bread loaf
+TXN_LG_003	whole grain pasta spaghetti
+TXN_LG_004	coconut water unsweetened
+TXN_LG_005	lean ground beef pound
+TXN_LG_006	organic gala apples bag
+TXN_LG_007	greek yogurt plain nonfat
+TXN_LG_008	mixed berry granola cereal
+TXN_LG_009	dark chocolate bar 70 percent
+TXN_LG_010	almond butter creamy jar

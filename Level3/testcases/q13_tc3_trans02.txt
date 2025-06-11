@@ -1,0 +1,10 @@
+txn011	itemA itemB itemC itemG
+txn012	itemD itemE
+txn013	itemA itemF
+txn014	itemB itemC itemH
+txn015	itemG
+txn016	itemA itemC itemE
+txn017	itemB itemD
+txn018	itemF itemH
+txn019	itemA itemB itemC
+txn020	itemZ

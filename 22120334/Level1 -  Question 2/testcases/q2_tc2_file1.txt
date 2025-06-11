@@ -1,0 +1,7 @@
+SALE_A	A
+SALE_A	B*
+SALE_A	C D E*
+SALE_B	verylongitemnamewithoutdiscount
+SALE_C	*
+SALE_C	X Y Z
+SALE_A	A

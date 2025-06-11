@@ -1,0 +1,7 @@
+cluster3	-60	
+cluster1	60
+cluster2	160
+	cluster3	-40	
+cluster1	80
+cluster2	180
+	cluster3	-20

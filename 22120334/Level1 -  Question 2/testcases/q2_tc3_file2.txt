@@ -1,0 +1,25 @@
+ORD_LG_A01	short item*
+ORD_LG_A02	item with discount applied
+ORD_LG_A03	very very very long product description
+ORD_LG_A04	another item with several words here*
+ORD_LG_A05	simple product
+ORD_LG_A06	product without any discount*
+ORD_LG_A07	special offer item today only
+ORD_LG_A08	this is a regular priced item
+ORD_LG_A09	buy one get one free item*
+ORD_LG_A10	limited stock product name
+ORD_LG_B01	new transaction item one
+ORD_LG_B02	new transaction item two*
+ORD_LG_B03	new transaction item three
+ORD_LG_B04	new transaction item four*
+ORD_LG_B05	new transaction item five
+ORD_LG_A01	product without any discount
+ORD_LG_A02	special offer item today only*
+ORD_LG_A03	this is a regular priced item
+ORD_LG_A04	buy one get one free item
+ORD_LG_A05	limited stock product name*
+ORD_LG_A06	premium quality goods here
+ORD_LG_A07	extra long item name for testing cost calculation
+ORD_LG_A08	short item*
+ORD_LG_A09	item with discount applied
+ORD_LG_A10	very very very long product description*

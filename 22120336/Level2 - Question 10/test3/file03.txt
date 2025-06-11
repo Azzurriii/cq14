@@ -1,0 +1,5 @@
+FoodQuantity Monitor 7
+FoodQuantity Keyboard 18
+FoodPrice Mouse 50
+FoodQuantity Mouse 30
+FoodQuantity Speaker 10

@@ -1,0 +1,5 @@
+FoodQuantity Banana 8
+FoodQuantity Mango 12
+FoodPrice Grape 7
+FoodQuantity Grape 6
+FoodQuantity Kiwi 4

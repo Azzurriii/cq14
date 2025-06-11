@@ -1,0 +1,26 @@
+FoodPrice Item_001 10.50
+FoodPrice Item_002 20.25
+FoodQuantity Item_001 100
+FoodPrice Item_003 5.75
+FoodQuantity Item_004 50
+FoodPrice Item_005 12.00
+FoodQuantity Item_002 250
+FoodPrice Item_006 8.90
+FoodQuantity Item_005 75
+FoodPrice Item_007 15.60
+FoodQuantity Item_008 120
+FoodPrice Item_009 "Value with spaces"
+FoodQuantity Item_010 300
+FoodPrice Item_011 1.23
+FoodQuantity Item_006 90
+FoodPrice Item_012 4.56
+FoodQuantity Item_007 150
+FoodPrice Item_013 7.89
+FoodQuantity Item_014 200
+FoodPrice Item_015 10.11
+FoodQuantity Item_009 "Another value with spaces"
+FoodPrice Item_016 11.12
+FoodQuantity Item_017 220
+FoodPrice Item_018 12.13
+FoodQuantity Item_019 230
+FoodPrice Item_020 13.14

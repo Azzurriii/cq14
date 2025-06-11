@@ -1,0 +1,8 @@
+tr01	beer diaper bread milk eggs
+tr02	beer diaper bread coffee
+tr03	beer diaper milk juice
+tr04	diaper bread milk cola
+tr05	beer bread eggs juice
+tr06	beer diaper bread milk
+tr07	coke water chips
+tr08	beer diaper

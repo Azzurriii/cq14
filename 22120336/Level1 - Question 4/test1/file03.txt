@@ -1,0 +1,4 @@
+group_c	60	
+group_a	70
+group_b	45
+	group_c	80

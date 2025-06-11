@@ -1,0 +1,4 @@
+group_a	10	
+group_b	15
+	group_c	20	
+group_a	30

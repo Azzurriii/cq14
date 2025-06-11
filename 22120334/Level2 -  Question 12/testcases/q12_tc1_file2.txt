@@ -1,0 +1,7 @@
+FoodQuantity Banana 20
+FoodPrice Mango 1.5
+FoodQuantity Orange 15
+FoodPrice Kiwi 0.6
+FoodQuantity Kiwi 25
+FoodQuantity Strawberry 12
+FoodPrice Lemon 0.4

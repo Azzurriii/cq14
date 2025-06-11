@@ -1,0 +1,5 @@
+cluster1	-50
+	cluster1	-30	
+cluster2	100
+cluster1	-10
+	cluster2	120
